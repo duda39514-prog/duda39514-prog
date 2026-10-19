@@ -50,19 +50,14 @@
   <h3>✨ Things That Define Me ✨</h3>
   <br />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1O9wG42R3S7pM3sC2/giphy.gif" width="100px" alt="Livros Pixel Art" title="Livros & Leitura" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://tse2.mm.bing.net/th/id/OIP.G6Kh1l1AZoEAB5ueeJOA1wHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="100px" alt="Livros Pixel Art" title="Livros & Leitura" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="100px" alt="Gato Fofo" title="Gatinhos" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUGGAC3P4v6/giphy.gif" width="100px" alt="Programação Aesthetic" title="Coding" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://i.pinimg.com/originals/0c/85/13/0c8513d4db5e903e501f8461d4146345.jpg" width="100px" alt="Gato Fofo" title="Gatinhos" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPdEEOo29OMWLKw/giphy.gif" width="100px" alt="Café Aesthetic" title="Cozy Vibes" />
+  <img src="https://i.pinimg.com/originals/aa/45/ab/aa45ab42358d9696fe18bcb0d65aa911.jpg" width="100px" alt="Programação Aesthetic" title="Coding" />
 
-  <br /><br />
-  <p><i>"Coffee, books, cats & code." ☕📚🐾💻</i></p>
+
 </div>
 
 <br />
