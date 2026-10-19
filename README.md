@@ -50,12 +50,12 @@
   <h3>✨ Things That Define Me ✨</h3>
   <br />
 
-  <img src="https://tse2.mm.bing.net/th/id/OIP.G6Kh1l1AZoEAB5ueeJOA1wHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="400px" alt="Livros Pixel Art" title="Livros & Leitura" />
-<br>
+  <img src="https://tse2.mm.bing.net/th/id/OIP.G6Kh1l1AZoEAB5ueeJOA1wHaJ4?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" width="200px" alt="Livros Pixel Art" title="Livros & Leitura" />
 
-  <img src="https://i.pinimg.com/originals/0c/85/13/0c8513d4db5e903e501f8461d4146345.jpg" width="400px" alt="Gato Fofo" title="Gatinhos" />
-<br>
-  <img src="https://i.pinimg.com/originals/aa/45/ab/aa45ab42358d9696fe18bcb0d65aa911.jpg" width="400px" alt="Programação Aesthetic" title="Coding" />
+
+  <img src="https://i.pinimg.com/originals/0c/85/13/0c8513d4db5e903e501f8461d4146345.jpg" width="200px" alt="Gato Fofo" title="Gatinhos" />
+
+  <img src="https://i.pinimg.com/originals/aa/45/ab/aa45ab42358d9696fe18bcb0d65aa911.jpg" width="200px" alt="Programação Aesthetic" title="Coding" />
 
 
 </div>
