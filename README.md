@@ -47,6 +47,10 @@
 <br />
 
 <div align="center">
+
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/duda39514-prog/duda39514-prog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
   <h3>✨ Things That Define Me ✨</h3>
   <br />
 
