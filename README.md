@@ -1,17 +1,14 @@
-<!-- HEADER BANNER -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=200&section=header&text=✨%20Bem-vindo(a)%20ao%20meu%20perfil!%20✨&fontSize=35&animation=fadeIn&fontColor=ffffff" width="100%" />
   
   <br />
 
-  <!-- BADGES DE REDES SOCIAIS E CONTATO -->
-  <a href="https://instagram.com/SEU_USUARIO">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://linkedin.com/in/SEU_USUARIO">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:seuemail@email.com">
+  <a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
