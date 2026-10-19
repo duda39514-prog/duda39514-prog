@@ -47,9 +47,9 @@
 <br />
 
 <div align="center">
-
-  <div align="center">
-  <img src="https://raw.githubusercontent.com/duda39514-prog/duda39514-prog/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<!-- GRÁFICO DE CONTRIBUIÇÕES PERSONALIZADO -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=duda39514-prog&theme=dracula&bg_color=0D1117&color=50fa7b&line=bd93f9&point=ff79c6&hide_border=true" width="100%" />
 </div>
   <h3>✨ Things That Define Me ✨</h3>
   <br />
