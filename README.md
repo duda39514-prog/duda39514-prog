@@ -47,5 +47,26 @@
 <br />
 
 <div align="center">
+  <h3>✨ Things That Define Me ✨</h3>
+  <br />
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1O9wG42R3S7pM3sC2/giphy.gif" width="100px" alt="Livros Pixel Art" title="Livros & Leitura" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MDJ9IbxxvDUQM/giphy.gif" width="100px" alt="Gato Fofo" title="Gatinhos" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUGGAC3P4v6/giphy.gif" width="100px" alt="Programação Aesthetic" title="Coding" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3OHU4a3Rxb2trcnpwcjBscXZ0dDRudTF4OGI3NndsbHQ2ZnpydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPdEEOo29OMWLKw/giphy.gif" width="100px" alt="Café Aesthetic" title="Cozy Vibes" />
+
+  <br /><br />
+  <p><i>"Coffee, books, cats & code." ☕📚🐾💻</i></p>
+</div>
+
+<br />
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=100&section=footer" width="100%" />
 </div>
