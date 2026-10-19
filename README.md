@@ -10,18 +10,16 @@
 
 ---
 
-<!-- SOBRE MIM -->
-## 🚀 Sobre mim
+## ╰(*°▽°*)╯ Sobre mim
 
-👋 Olá! Sou um(a) entusiasta de tecnologia apaixonado(a) por aprender coisas novas e criar projetos legais!
+ Olá! Estou no curso de Desenvolvimento de Sistemas do SENAI!
 
-- 🔭 Atualmente estou estudando: **HTML, CSS, JavaScript e Python**
+- 🔭 Atualmente estou estudando: **HTML, CSS e JavaScript**
 - 🎯 Meu objetivo atual: **Aprimorar minhas habilidades de programação**
-- ⚡ Curiosidade: **Adoro jogos, música e personalizar minhas ferramentas de código!**
+- ⚡ Curiosidade: **Adoro livros, música e personalizar minhas ferramentas de código!**
 
 ---
 
-<!-- TECNOLOGIAS E FERRAMENTAS -->
 ## 🛠️ Linguagens e Ferramentas
 
 <div align="center">
@@ -30,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   &nbsp;
@@ -50,7 +46,6 @@
 
 <br />
 
-<!-- RODAPÉ DECORATIVO -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,30&height=100&section=footer" width="100%" />
 </div>
